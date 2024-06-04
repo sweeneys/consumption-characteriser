@@ -9,7 +9,7 @@
 
     (iii) all other consumption larger in magnitude than $P_{threshold}$ for a duration $T_{threshold}$ should be considered flexible.
 
-- The outputs of the characteriser are inputs for use in the online market described here [Linked repo To insert]
+- The outputs of the characteriser are inputs for use in the online market described here [https://github.com/sweeneys/fair-flexible-energy-market]
 
 - Further details on the market design are provided in [Link to paper to be proviedd]
 
@@ -31,7 +31,7 @@
 
 - pricingFunctions.py: Defines the buy and sell pricing function for energy which may be useful in setting the willingness to pay parameters for each household.
 
-  - generateSimulatedConsumption.py: This is an alternative executable to createInputData.py for the case where the user does not have their own consumption dataset to characterise and they instead wish to generate some (simulated) consumption data.  
+- generateSimulatedConsumption.py: This is an alternative executable to createInputData.py for the case where the user does not have their own consumption dataset to characterise and they instead wish to generate some (simulated) consumption data.  
   
   
 
