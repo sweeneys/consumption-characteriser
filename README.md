@@ -13,8 +13,9 @@
 
 - Further details on the market design are provided in [Link to paper to be provided]
 
-Algorithm
-![Algorithm](img/algorithm.png?raw=true "Algorithm description")
+Algorithm description:
+
+<img src="img/algorithm.png" width="500" height="600">
   
 
 # SCRIPT DESCRIPTIONS 
