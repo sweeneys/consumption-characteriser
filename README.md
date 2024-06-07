@@ -1,29 +1,3 @@
----
-header-includes:
-  - \usepackage{algorithm2e}
----
-
-# Algorithm 1
-Just a sample algorithmn
-\begin{algorithm}[H]
-\DontPrintSemicolon
-\SetAlgoLined
-\KwResult{Write here the result}
-\SetKwInOut{Input}{Input}\SetKwInOut{Output}{Output}
-\Input{Write here the input}
-\Output{Write here the output}
-\BlankLine
-\While{While condition}{
-    instructions\;
-    \eIf{condition}{
-        instructions1\;
-        instructions2\;
-    }{
-        instructions3\;
-    }
-}
-\caption{While loop with If/Else condition}
-\end{algorithm} 
 
 # REPO DESCRIPTION / OBJECTIVE 
 
@@ -37,8 +11,10 @@ Just a sample algorithmn
 
 - The outputs of the characteriser are inputs for use in the online market described here [https://github.com/sweeneys/fair-flexible-energy-market]
 
-- Further details on the market design are provided in [Link to paper to be proviedd]
+- Further details on the market design are provided in [Link to paper to be provided]
 
+Algorithm
+![Algorithm](img/algorithm.png?raw=true "Algorithm description")
   
 
 # SCRIPT DESCRIPTIONS 
