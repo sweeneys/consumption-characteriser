@@ -11,7 +11,7 @@
 
 - The outputs of the characteriser are inputs for use in the online market described here [https://github.com/sweeneys/fair-flexible-energy-market]
 
-- Further details on the market design are provided in [Link to paper to be provided]
+- Further details on the market design are provided in https://arxiv.org/pdf/2407.20814v1. 
 
 Algorithm description:
 
